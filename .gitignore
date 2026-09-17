@@ -43,3 +43,6 @@ build-fresh/
 /resources/bin/
 # Downloaded Node.js distribution (populated by `npm run download-node` before packaging)
 /resources/node/
+
+# plan-build-ship: per-project Codex review state (never committed)
+.claude/codex-state/
